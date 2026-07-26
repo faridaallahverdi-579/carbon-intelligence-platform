@@ -224,19 +224,6 @@ Compare CO₂ emissions, emissions per capita, and historical trends between mul
 ![Country Comparison](images/country-comparison.png)
 
 
-
-### Machine Learning Prediction
-
-![Prediction](images/prediction.png)
-
-Example:
-
-- Home Dashboard
-- World CO₂ Map
-- Carbon Calculator
-- Country Comparison
-- Prediction Dashboard
-
 ---
 
 ## 🎯 Future Improvements
