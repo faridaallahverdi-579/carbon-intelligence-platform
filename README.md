@@ -1,8 +1,25 @@
 # 🌍 Carbon Intelligence Platform
 
+### Climate Data Analytics & Personal Carbon Footprint Calculator
+
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![License](https://img.shields.io/badge/License-Educational-green)
+
 An end-to-end data analytics project that analyzes global CO₂ emissions and helps users understand their personal carbon footprint through interactive visualizations and machine learning.
 
 ---
+
+## ✨ Key Highlights
+
+-  Global CO₂ emissions dashboard
+-  Interactive Plotly visualizations
+-  Machine Learning prediction model
+-  Personal carbon footprint calculator
+-  Carbon offset estimation
+-  Country comparison
+-  Built with Python & Streamlit
 
 ## 📖 Project Overview
 
@@ -31,11 +48,11 @@ The project includes:
 
 Calculate emissions from:
 
-- 🚗 Car travel
-- ✈️ Flights
-- ⚡ Electricity consumption
-- ☕ Coffee consumption
-- 🚿 Daily activities
+-  Car travel
+-  Flights
+-  Electricity consumption
+-  Coffee consumption
+-  Daily activities
 
 ✅ Country Comparison
 
@@ -142,6 +159,17 @@ Workflow:
 
 ---
 
+## 💼 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Development
+- Machine Learning
+- Streamlit Application Development
+- Python Programming
+- Data Storytelling
+
 ## 🌱 Environmental Impact
 
 The platform helps users:
@@ -155,7 +183,51 @@ The platform helps users:
 
 ## 📸 Screenshots
 
-*Add screenshots of your Streamlit dashboard here.*
+The following screenshots demonstrate the key features of the **Carbon Intelligence Platform**.
+
+### 🌍 Global CO₂ Analysis Dashboard
+
+The main dashboard provides an overview of global CO₂ emissions, interactive charts, and key environmental indicators.
+
+![Global CO₂ Analysis](images/global-co2-analysis.png)
+
+---
+
+### 🗺️ Interactive World CO₂ Map
+
+An interactive world map that allows users to explore CO₂ emissions by country.
+
+![World CO₂ Map](images/world-map.png)
+
+---
+
+### 🌱 Smart Carbon Calculator (Default View)
+
+The default interface of the Smart Carbon Calculator before entering user data.
+
+![Smart Carbon Calculator Default](images/smart-carbon-calculator-default.png)
+
+---
+
+### 🌱 Smart Carbon Calculator (Calculated Results)
+
+The calculator estimates a user's carbon footprint based on lifestyle activities and provides personalized environmental insights.
+
+![Smart Carbon Calculator](images/smart-carbon-calculator.png)
+
+---
+
+### 📊 Country Comparison
+
+Compare CO₂ emissions, emissions per capita, and historical trends between multiple countries using interactive visualizations.
+
+![Country Comparison](images/country-comparison.png)
+
+
+
+### Machine Learning Prediction
+
+![Prediction](images/prediction.png)
 
 Example:
 
@@ -187,7 +259,7 @@ GitHub:
 https://github.com/faridaallahverdi-579
 
 LinkedIn:
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/farida-allahverdiyeva-05675072/
 
 ---
 
